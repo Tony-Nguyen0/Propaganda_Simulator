@@ -5,6 +5,7 @@ A simulator created for CITS3001 UWA unit with the intent of using reinforced le
 **2022**
 
 | **Name** | **StudentID** | **Degree** |
+| --- | --- | --- |
 | Sunny Lac | 23119307 | Computer Science |
 | **Name** | **StudentID** | **Degree** |
 | Tony Nguyen | 23090585 | Computer science |
