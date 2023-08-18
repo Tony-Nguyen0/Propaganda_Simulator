@@ -220,7 +220,7 @@ How can a layman run your game? Provide the commands, and associated parameters 
 
 To run the game, the person simply needs to start the main file and from there a GUI will pop-up that will provide all the necessary parameters inputted as buttons and scrollers.
 
-![](RackMultipart20230818-1-uckknl_html_b1b110fbd4870596.png)
+![](./MD_pictures/Game1.png)
 
 From there, the user will be required to select either they want to simulate a game between AI's or the user wants to vs against an AI.
 
