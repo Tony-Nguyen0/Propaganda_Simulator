@@ -220,7 +220,7 @@ How can a layman run your game? Provide the commands, and associated parameters 
 
 To run the game, the person simply needs to start the main file and from there a GUI will pop-up that will provide all the necessary parameters inputted as buttons and scrollers.
 
-![](./MD_pictures/Game1.png)
+![](./MD_pictures/InitialMenu.png)
 
 From there, the user will be required to select either they want to simulate a game between AI's or the user wants to vs against an AI.
 
@@ -230,13 +230,13 @@ There is also 2 scrollers to control the upper and lower bounds of the green age
 
 If the user selected 'Player vs AI', an additional drop-down menu will pop-up that will allow the user to pick what team they want to play as or have it as random.
 
-![](RackMultipart20230818-1-uckknl_html_92d5e8d3bd128b98.png)
+![](./MD_pictures/Selection1.png)
 
 Once the user has selected a gamemode and are satisfied with the parameters, they may press the 'press' button to initiate the simulation/game.
 
 In the AI vs AI gamemode, the game will automatically be played by the ai and displayed till a team has won. Each turn number will be displayed as well as whose turn it is and what option they picked.
 
-![](RackMultipart20230818-1-uckknl_html_4fc82850497492aa.png)
+![](./MD_pictures/Game1.png)
 
 In the Player vs AI game mode, the user will be given options based on what team they are
 
@@ -245,7 +245,7 @@ In Red team:
 - They have access to how many connections to followers they have lost
 - Red-centric messages
 
-![](RackMultipart20230818-1-uckknl_html_40d991cc28a64824.png)
+![](./MD_pictures/Game2.png)
 
 In blue team:
 
@@ -253,15 +253,15 @@ In blue team:
 - Blue-centric message
 - An additional option of blue agents
 
-![](RackMultipart20230818-1-uckknl_html_8b34e967e5fcc294.png) When blue does not have enough energy or grey agents for the respective option, it will disappear and not be available to the user.
+![](./MD_pictures/Picture3.png) When blue does not have enough energy or grey agents for the respective option, it will disappear and not be available to the user.
 
 The graph displayed is the result of the previous turn.
 
 When the game has ended/a team has won, the game will display appropriately:
 
-![](RackMultipart20230818-1-uckknl_html_c719c2c0bac84764.png)
+![](./MD_pictures/Game4.png)
 
-![](RackMultipart20230818-1-uckknl_html_7108c7df63b49eec.png)
+![](./MD_pictures/Game5.png)
 
 # Agent Design
 
@@ -357,15 +357,15 @@ Plot distribution using an example of a game starting with 50 green agents.
 
 Scatter Plot distribution graphs:
 
-![](RackMultipart20230818-1-uckknl_html_17bb4be0918ef44a.gif)
+![](./MD_pictures/Graph1.png)
 
-![](RackMultipart20230818-1-uckknl_html_9d09b19ff5f78ce9.gif)
+![](./MD_pictures/Graph2.png)
 
 Frequency Distribution Graph:
 
-![](RackMultipart20230818-1-uckknl_html_575c7d70a341b361.gif)
+![](./MD_pictures/Graph3.png)
 
-![](RackMultipart20230818-1-uckknl_html_dbb00279fe8d48f1.gif)
+![](./MD_pictures/Game4.png)
 
 1. In order for the Red agent to win (i.e., a higher number of green agents with the opinion "not vote", and an uncertainty less than 0 (which means they are pretty certain about their choice)), what is the best strategy?
   1. Discuss and show with simulation results how many rounds the red agent needs in order to win.
@@ -435,7 +435,7 @@ AI vs AI:
 
 The game will proceed in order of red, blue then green team. Each turn will show the selection and result on a graph environment for 0.5 second each until the game ends. On top of the graph it will also shown the turn number and whose turn it is.
 
-![](RackMultipart20230818-1-uckknl_html_2076ef7347228174.png)
+![](./MD_pictures/Game6.png)
 
 Human vs AI:
 
@@ -445,14 +445,14 @@ Each potency has 2 messages associated with it, which will be randomised for dis
 
 Hovering over a node will give its relevant data points.
 
-![](RackMultipart20230818-1-uckknl_html_62c2d14f2508b83c.png)
+![](./MD_pictures/Game7.png)
 
 As shown above, while on blue team, they'll have access to how much energy they have left.
 
-![](RackMultipart20230818-1-uckknl_html_bcbeb9bd7d875fb4.png)
+![](./MD_pictures/Game8.png)
 
 As shown above, if user is on red team, the use of grey agents will not be available to them but they will have access to how many followers they have lost instead of how much energy blue has left.
 
 Blue will lose the options for certain move if they don't have enough energy of grey agents.
 
-![](RackMultipart20230818-1-uckknl_html_9779407e4c88d2f6.png)
+![](./MD_pictures/Select2.png)
