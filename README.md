@@ -13,29 +13,29 @@ A simulator created for CITS3001 UWA unit with the intent of using reinforced le
 
 # Table of Contents
 
-_**[Introduction 1](#_Toc115329643)**_
+_**[Introduction](#introduction)**_
 
-_**[Assumptions 2](#_Toc115329644)**_
+_**[Assumptions](#assumption)**_
 
-_**[Selection and design of appropriate AI technology 2](#_Toc115329645)**_
+_**[Selection and design of appropriate AI technology](#selection_and_design_of_appropriate_ai_technology)**_
 
-**[Game Play 2](#_Toc115329646)**
+**[Game Play](#game_play)**
 
-_**[Implementation of the Agents 2](#_Toc115329647)**_
+_**[Implementation of the Agents](#implementation_of_the_agents)**_
 
-_**[Agent Design 2](#_Toc115329648)**_
+_**[Agent Design](#agent_design)**_
 
-**[Green Agents 2](#_Toc115329649)**
+**[Green Agents](#green_agents)**
 
-**[Red and blue agents 3](#_Toc115329650)**
+**[Red and blue agents](#red_and_blue_agents)**
 
-**[Grey Agents 3](#_Toc115329651)**
+**[Grey Agents](#grey_agents)**
 
-_**[Validation of Agents 3](#_Toc115329652)**_
+_**[Validation of Agents](#validation_of_agents)**_
 
-_**[Performance of Agent when playing with a human 3](#_Toc115329653)**_
+_**[Performance of Agent when playing with a human](#performance_of_agent_when_playing_with_a_human)**_
 
-_**[Visualisation 4](#_Toc115329654)**_
+_**[Visualisation](#visualisation)**_
 
 #
 
