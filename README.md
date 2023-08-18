@@ -17,23 +17,23 @@ _**[Introduction](#introduction)**_
 
 _**[Assumptions](#assumption)**_
 
-_**[Selection and design of appropriate AI technology](#selection_and_design_of_appropriate_ai_technology)**_
+_**[Selection and design of appropriate AI technology](#selection-and-design-of-appropriate-ai-technology)**_
 
-**[Game Play](#game_play)**
+**[Game Play](#game-play)**
 
-_**[Implementation of the Agents](#implementation_of_the_agents)**_
+_**[Implementation of the Agents](#implementation-of-the-agents)**_
 
-_**[Agent Design](#agent_design)**_
+_**[Agent Design](#agent-design)**_
 
-**[Green Agents](#green_agents)**
+**[Green Agents](#green-agents)**
 
-**[Red and blue agents](#red_and_blue_agents)**
+**[Red and blue agents](#red-and-blue-agents)**
 
-**[Grey Agents](#grey_agents)**
+**[Grey Agents](#grey-agents)**
 
-_**[Validation of Agents](#validation_of_agents)**_
+_**[Validation of Agents](#validation-of-agents)**_
 
-_**[Performance of Agent when playing with a human](#performance_of_agent_when_playing_with_a_human)**_
+_**[Performance of Agent when playing with a human](#performance-of-agent-when-playing-with-a-human)**_
 
 _**[Visualisation](#visualisation)**_
 
